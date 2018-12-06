@@ -83,7 +83,7 @@ if(!filter_var($email,FILTER_VALIDATE_EMAIL)){
            echo $resultmsg;}
         
         else{
-            $to="anshikagangwar8@gmail.com";
+            $to="validemailid.com";
             $subject="contact";
            
             $msg="
